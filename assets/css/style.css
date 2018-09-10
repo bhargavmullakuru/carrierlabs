@@ -499,7 +499,7 @@ a.button-play {
     font-size: 14px;
     margin: 12px 0 0;
     line-height: 24px;
-/*    max-width: 400px;*/
+    /*    max-width: 400px;*/
 }
 
 .s-box li:hover h4 {
@@ -842,17 +842,23 @@ a.button-play {
 .titem {
     position: relative;
     overflow: hidden;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 .t-txt p {
     margin: 0;
 }
 
+.programs-text {
+    margin-bottom: 0px;
+    margin-left: 5px;
+    margin-top: 3px;
+}
+
 .t-item {
-    margin: 0 15px;
+    margin: 0 10px;
     background: rgba(255, 255, 255, 0.6);
-    padding: 40px;
+    padding: 20px;
     border-radius: 10px;
     box-shadow: 3px 3px 15px #ccc;
 }
@@ -1022,13 +1028,13 @@ a.button-play {
     margin: 0 auto;
     background: #fff;
     box-shadow: 1px 1px 15px #ccc;
-    padding: 50px 50px 35px;
+    padding: 40px 30px 30px;
     border-radius: 10px;
 }
 
 .newsletter p {
     margin: 0;
-    font-size: 18px;
+    font-size: 13px;
     letter-spacing: .5px;
 }
 
